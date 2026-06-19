@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "progress": "node scripts/update-progress.js",
+    "quest01": "node quests/quest-01-variables-player-stats/player-stats.js"
+  }
+}

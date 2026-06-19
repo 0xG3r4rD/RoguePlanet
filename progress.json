@@ -1,0 +1,25 @@
+{
+  "playerName": "JavaScript Apprentice",
+  "rank": "Tutorial Island Coder",
+  "level": 1,
+  "hp": 10,
+  "maxHp": 10,
+  "xp": 0,
+  "xpToNextLevel": 100,
+  "questPoints": 0,
+  "currentArea": "Tutorial Island",
+  "currentQuest": "Quest 01: Create Your First Player Stat",
+  "completedQuests": [],
+  "skills": {
+    "variables": { "level": 1, "xp": 0 },
+    "conditions": { "level": 1, "xp": 0 },
+    "loops": { "level": 1, "xp": 0 },
+    "functions": { "level": 1, "xp": 0 },
+    "arrays": { "level": 1, "xp": 0 },
+    "objects": { "level": 1, "xp": 0 },
+    "timers": { "level": 1, "xp": 0 },
+    "events": { "level": 1, "xp": 0 },
+    "stateMachines": { "level": 1, "xp": 0 },
+    "pluginArchitecture": { "level": 1, "xp": 0 }
+  }
+}
